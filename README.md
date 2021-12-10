@@ -1,7 +1,7 @@
 # 1 Fuzzy Way, 0x50 0x4B.
 On my fuzzy way
 
-CVEs:
+## [CVEs](CVEs):
 
 Multiple vulnerabilities in Vim Editor (Written in C).
 
