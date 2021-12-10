@@ -1,4 +1,4 @@
-# 1 Fuzzy Way ,0x50 0x4B.
+# 1 Fuzzy Way, 0x50 0x4B.
 On my fuzzy way
 
 CVEs:
