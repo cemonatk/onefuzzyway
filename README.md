@@ -3,6 +3,11 @@ I'm on my fuzzy way.
 
 ## [CVEs](CVEs):
 
+Multiple bugs in MIT Kerberos (krb5) (Written in C).
+
+- Null pointer dereference: [CVE-2026-40355](CVEs/krb5/CVE-2026-40355.md).
+- Read overrun: [CVE-2026-40356](CVEs/krb5/CVE-2026-40356.md).
+
 Multiple bugs in Vim Editor (Written in C).
 
 - Heap Overflows: [CVE-2021-3903](CVEs/vim/CVE-2021-3903.md), [CVE-2021-3927](CVEs/vim/CVE-2021-3927.md), [CVE-2021-3973](CVEs/vim/CVE-2021-3973.md), [CVE-2021-3984](CVEs/vim/CVE-2021-3984.md).
@@ -22,5 +27,4 @@ Multiple bugs in ffjpeg project.
 ## [Harness](Harness):
 
 ## [Scripts](Scripts):
-
 
